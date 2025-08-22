@@ -19,7 +19,7 @@ const Index = () => {
         <Amenities />
         <Contact /> */}
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };
